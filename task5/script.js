@@ -1,6 +1,6 @@
 let  inputTextField = document.querySelector('input');
 let duplicateField = document.querySelector('#duplicateField');
-let submitButton = document.querySelector('button');
+const submitButton = document.querySelector('button');
 
 inputTextField.addEventListener('input', updateValue);
 

@@ -1,0 +1,31 @@
+body > form > fieldset{
+    border: solid 3px;
+    border-radius: 8px;
+    width: 50%;
+    display: block;
+    color: #363a40;
+    font-size: 1.4em;
+    text-align: center;
+    margin: 70px auto 40px;
+    }
+
+body > form > fieldset > label > span{
+    padding: 0px 10px;
+}
+body > form > fieldset > label > input[type=text]{
+    border: solid 2.2px #707884;
+    border-radius: 5px;
+    text-align: center;
+}
+body > form > fieldset > button{
+    border: solid 2.2px #707884;
+    border-radius: 5px;
+    text-align: center;
+}
+
+body > p{
+    color: #363a40;
+    font-size: 1.4em;
+    text-align: center;
+    margin: 30px auto -5px;
+}

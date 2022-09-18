@@ -1,7 +1,8 @@
 const  testTextField = document.querySelector('#linkcontent');
-testTextField.addEventListener('click', function() {
+
+testTextField.addEventListener('click', function(event) {
     // тело обработчика
-    console.log(testTextField)
     this.textContent = prompt('Введите текст');
+    event.preventDefault();
     // конец тела обработчика
-})
+});
