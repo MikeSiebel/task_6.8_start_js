@@ -23,4 +23,4 @@
 ## Как открыть/запустить
 
 
-Для просмотра сайта воспользуйтесь ссылкой https://github.com/MikeSiebel/task_6.8_start_js
+Для просмотра сайта воспользуйтесь ссылкой  https://mikesiebel.github.io/task_6.8_start_js/
